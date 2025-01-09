@@ -26,7 +26,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://instagram.com/christo__as__kitcha"
+          href="https://instagram.com/christo_as_kitcha"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-pink-600"
